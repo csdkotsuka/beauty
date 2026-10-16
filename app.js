@@ -7,7 +7,7 @@ const videoData = [
     thumbnail: "thumbnails/893515C254C5899666E42B6861C695FD8AA55980.mp4.png",
     duration: 17.81,
     formattedDuration: "0:18",
-    size: 3447582,
+    size: 3447574,
     formattedSize: "3.3 MB",
     resolution: "720 × 1280"
   },
@@ -18,7 +18,7 @@ const videoData = [
     thumbnail: "thumbnails/9B3C8AD3262B574A35F4CD4A9255C53948F3B93C.mp4.png",
     duration: 23.51,
     formattedDuration: "0:24",
-    size: 5577708,
+    size: 5577696,
     formattedSize: "5.3 MB",
     resolution: "720 × 1280"
   },
@@ -29,7 +29,7 @@ const videoData = [
     thumbnail: "thumbnails/1E970E02DAB01C236D0B5EAF8625BF76E79C22DE.mp4.png",
     duration: 24.73,
     formattedDuration: "0:25",
-    size: 5462318,
+    size: 5462298,
     formattedSize: "5.2 MB",
     resolution: "720 × 1280"
   },
@@ -40,7 +40,7 @@ const videoData = [
     thumbnail: "thumbnails/C1739FE29A7C170FBA3FE3F1B6D55A79541AD1A1.mp4.png",
     duration: 28.84,
     formattedDuration: "0:29",
-    size: 8056479,
+    size: 8056463,
     formattedSize: "7.7 MB",
     resolution: "720 × 1280"
   },
@@ -51,7 +51,7 @@ const videoData = [
     thumbnail: "thumbnails/49F2E83F21953654E85D27A0799EEFF1B8BF97C7.mp4.png",
     duration: 29.99,
     formattedDuration: "0:30",
-    size: 7460193,
+    size: 7460177,
     formattedSize: "7.1 MB",
     resolution: "720 × 1280"
   },
@@ -62,7 +62,7 @@ const videoData = [
     thumbnail: "thumbnails/A03ABBADECBFAD7CF3BEE6C4CCC31ADBD1817A1B.mp4.png",
     duration: 35.22,
     formattedDuration: "0:35",
-    size: 6818165,
+    size: 6818145,
     formattedSize: "6.5 MB",
     resolution: "720 × 1280"
   }
